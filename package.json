@@ -1,0 +1,12 @@
+{
+  "name": "node-usb-relay",
+  "version": "0.0.1",
+  "description": "node-usb-relay",
+  "main": "src/index.js",
+  "repository": "git@github.com:dikun-mv/node-usb-relay.git",
+  "author": "Maxim Dikun <dikun.mv@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "node-hid": "^0.7.2"
+  }
+}
